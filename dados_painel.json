@@ -1,0 +1,27 @@
+{
+  "clientes": [
+    {
+      "id": "cliente-1783376420342",
+      "titulo": "eae",
+      "imagem": "https://via.placeholder.com/150",
+      "link": "https://www.instagram.com/pulverfarm/",
+      "meta": "12322",
+      "status": "",
+      "tipo": "mensal",
+      "coluna": "fechados"
+    }
+  ],
+  "financas": [
+    {
+      "id": "financa-1783376437680",
+      "dataInput": "2026-07-06",
+      "ano": "2026",
+      "mes": "07",
+      "dia": "06",
+      "cliente": "eae",
+      "tipo": "mensal",
+      "forma": "Pix",
+      "valor": 2233
+    }
+  ]
+}
